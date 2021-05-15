@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm 贵州纳雍穿青人李裕江</h1>
-<h3 align="center">A passionate android/web developer from China</h3>
+<h1 align="left">Hi 👋, I'm 贵州纳雍穿青人李裕江</h1>
+<h3 align="left">A passionate android/web developer from China</h3>
 
 - 💻 All of my projects are available at [https://github.com/gzu-liyujiang](https://github.com/gzu-liyujiang), [https://gitee.com/li_yu_jiang](https://gitee.com/li_yu_jiang)
 
@@ -8,8 +8,8 @@
 - 📫 How to reach me [gzuliyujiang@gmail.com](mailto:gzuliyujiang@gmail.com), [1032694760@qq.com](mailto:1032694760@qq.com), [admin@qqtheme.cn](mailto:admin@qqtheme.cn)
 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <a href="https://developer.android.google.cn/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
@@ -19,15 +19,20 @@
 </p>
 
 
-<h3 align="center">Open Source Projects:</h3>
-<p align="center">
-  【Android_CN_OAID】<a href="https://gitee.com/li_yu_jiang/Android_CN_OAID" target="_blank"><img src="https://github.com/gzu-liyujiang/Android_CN_OAID/workflows/Release%20APK/badge.svg" /></a> &nbsp; <img src="https://jitpack.io/v/gzu-liyujiang/Android_CN_OAID.svg" /> &nbsp; <img src="https://img.shields.io/github/stars/gzu-liyujiang/Android_CN_OAID" />
+<h3 align="left">Open Source Project:</h3>
+<h4 align="left"><a href="https://gitee.com/li_yu_jiang/AndroidPicker" target="_blank">AndroidPicker</a>: </h4>
+<p align="left">
+  <img src="https://jitpack.io/v/gzu-liyujiang/AndroidPicker.svg" /> &nbsp; <img src="https://img.shields.io/github/stars/gzu-liyujiang/AndroidPicker" /> &nbsp; <img src="https://img.shields.io/github/forks/gzu-liyujiang/AndroidPicker" />
+</p>
+<h4 align="left"><a href="https://gitee.com/li_yu_jiang/Android_CN_OAID" target="_blank">Android_CN_OAID</a>: </h4>
+<p align="left">
+  <img src="https://jitpack.io/v/gzu-liyujiang/Android_CN_OAID.svg" /> &nbsp; <img src="https://img.shields.io/github/stars/gzu-liyujiang/Android_CN_OAID" /> &nbsp; <img src="https://img.shields.io/github/forks/gzu-liyujiang/Android_CN_OAID" />
 </p>
 
 
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=liyujiang-gzu&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="liyujiang-gzu" />
 </p>
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaunqingren&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="chaunqingren" />
 </p>
