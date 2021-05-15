@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm 贵州山魈羡民</h1>
 <h3 align="center">A passionate android/web developer from China</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/gzu-liyujiang](https://github.com/gzu-liyujiang), [https://gitee.com/li_yu_jiang](https://gitee.com/li_yu_jiang)
+- 💻 All of my projects are available at [https://github.com/gzu-liyujiang](https://github.com/gzu-liyujiang), [https://gitee.com/li_yu_jiang](https://gitee.com/li_yu_jiang)
 
 - 📝 I regulary write articles on [https://blog.csdn.net/waplyj](https://blog.csdn.net/waplyj)
 
-- 📫 How to reach me gzuliyujiang@gmail.com, 1032694760@qq.com, admin@qqtheme.cn
+- 📫 How to reach me [gzuliyujiang@gmail.com](mailto:gzuliyujiang@gmail.com), [1032694760@qq.com](mailto:1032694760@qq.com), [admin@qqtheme.cn](mailto:admin@qqtheme.cn)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://developer.android.google.cn/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
@@ -18,6 +18,8 @@
   <a href="https://vuepress.vuejs.org/" target="_blank"> <img src="https://vuepress.vuejs.org/hero.png" alt="vuepress" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liyujiang-gzu&show_icons=true&locale=en&layout=compact" alt="liyujiang-gzu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liyujiang-gzu&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="liyujiang-gzu" /></p>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liyujiang-gzu&show_icons=true&locale=en&layout=compact" alt="liyujiang-gzu" />
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=liyujiang-gzu&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="liyujiang-gzu" />
+</p>
