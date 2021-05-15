@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 贵州山魈羡民</h1>
+<h1 align="center">Hi 👋, I'm 贵州纳雍穿青人李裕江</h1>
 <h3 align="center">A passionate android/web developer from China</h3>
 
 - 💻 All of my projects are available at [https://github.com/gzu-liyujiang](https://github.com/gzu-liyujiang), [https://gitee.com/li_yu_jiang](https://gitee.com/li_yu_jiang)
@@ -18,8 +18,10 @@
   <a href="https://vuepress.vuejs.org/" target="_blank"> <img src="https://vuepress.vuejs.org/hero.png" alt="vuepress" width="40" height="40"/> </a>
 </p>
 
+
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liyujiang-gzu&show_icons=true&locale=en&layout=compact" alt="liyujiang-gzu" />
-  &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=liyujiang-gzu&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="liyujiang-gzu" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaunqingren&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="chaunqingren" />
 </p>
