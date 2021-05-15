@@ -19,6 +19,12 @@
 </p>
 
 
+<h3 align="center">Open Source Projects:</h3>
+<p align="center">
+  【Android_CN_OAID】<a href="https://gitee.com/li_yu_jiang/Android_CN_OAID" target="_blank"><img src="https://github.com/gzu-liyujiang/Android_CN_OAID/workflows/Release%20APK/badge.svg" /></a> &nbsp; <img src="https://jitpack.io/v/gzu-liyujiang/Android_CN_OAID.svg" /> &nbsp; <img src="https://img.shields.io/github/stars/gzu-liyujiang/Android_CN_OAID" />
+</p>
+
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=liyujiang-gzu&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="liyujiang-gzu" />
 </p>
