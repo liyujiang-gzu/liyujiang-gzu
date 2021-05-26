@@ -37,3 +37,7 @@
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaunqingren&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="chaunqingren" />
 </p>
+
+<p align="left">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=liyujiang-gzu.liyujiang-gzu" alt="visitor badge"/>
+</p>
