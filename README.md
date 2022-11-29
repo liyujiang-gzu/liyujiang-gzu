@@ -5,7 +5,7 @@
 
 - 📝 I regulary write articles on [https://blog.csdn.net/waplyj](https://blog.csdn.net/waplyj)
 
-- 📫 How to reach me [gzuliyujiang@gmail.com](mailto:gzuliyujiang@gmail.com), [1032694760@qq.com](mailto:1032694760@qq.com), [admin@qqtheme.cn](mailto:admin@qqtheme.cn)
+- 📫 How to reach me [gzu-liyuijiang@foxmail.com](mailto:gzu-liyuijiang@foxmail.com), [liyujiang_tk@yeah.net](mailto:liyujiang_tk@yeah.net), [1032694760@qq.com](mailto:1032694760@qq.com), [admin@qqtheme.cn](mailto:admin@qqtheme.cn)
 
 
 <h3 align="left">Languages and Tools:</h3>
